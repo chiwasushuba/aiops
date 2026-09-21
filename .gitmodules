@@ -1,0 +1,7 @@
+[submodule "aiops-backend"]
+	path = aiops-backend
+	url = https://github.com/chiwasushuba/aiops-backend.git
+
+[submodule "aiops-frontend"]
+	path = aiops-frontend
+	url = https://github.com/chiwasushuba/aiops-frontend.git
