@@ -1,0 +1,4 @@
+# Project-wide skills are resolved from the repository root.
+[[skills.config]]
+path = ".codex/skills/service-integration"
+enabled = true
